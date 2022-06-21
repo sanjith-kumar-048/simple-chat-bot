@@ -13,10 +13,10 @@ $ source venv/bin/activate  # Unix
 $ venv\Scripts\activate  # Windows
 ```
 
-##Install the requirements:
+## Install the requirements:
 
 ```$ pip install -r requirements.txt```
 
-##Run the main.py file:
+## Run the main.py file:
 
 ```$ python main.py```
