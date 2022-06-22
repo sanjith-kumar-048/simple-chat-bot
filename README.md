@@ -1,6 +1,6 @@
 # simple-chat-bot
 
-##Create and activate an environment:
+## Create and activate an environment:
 
 ```
 # Using conda
